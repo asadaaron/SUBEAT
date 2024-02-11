@@ -44,3 +44,7 @@ Copy the Autopsy and Backup and Restore - APP & SMS generated Excel files in a d
 
 Click on the Start Button from the Datex App interface. It will start the process of extracting data from the database files and anonymizing the data. The output will be generated in the output folder. 
 
+<img width="458" alt="ui_2" src="https://github.com/asadaaron/DataExtractionandAnonymization/assets/98735630/409ef9e3-dbac-4998-a89d-3f42bb94aef6">
+Figure: Datex App UI
+<img width="443" alt="ui_1" src="https://github.com/asadaaron/DataExtractionandAnonymization/assets/98735630/b566daac-334a-45b0-9034-2a6392e9354b">
+Figure: Datex App UI
