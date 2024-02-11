@@ -1,4 +1,4 @@
-# Predecting treatment success in N-of-1 trails based on smartphone usage data
+# Data Extraction and Anonymization Tool 
 ![pipeline_19_09_23](https://github.com/asadaaron/datex/assets/98735630/f23246c1-0dd2-4e88-8a08-4176831c0b03)
 
 
