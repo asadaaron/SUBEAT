@@ -7,9 +7,11 @@ Figure: Pipeline of "Predicting treatment success in N-of-1 trails based on smar
 
 ##  Requirements (Software needed):
 1.  Autopsy:  [to read and analyze the data from Android and iPhone devices] https://www.autopsy.com/download/
-2.  Free ISO Creator:  [to make disk image file] http://www.freeisocreator.com/
-3.  DB SQL lite:    [to see data in more detail which save as db file] https://sqlitebrowser.org/dl/ 
-4.  HxD Freeware hex editor and disk editor [to see decoded data] https://mh-nexus.de/en/hxd/
+2.  Finder App:  The macOS 10.15 (or later) is necessary to back up the iPhone using the Finder app. It is also possible to back up the iPhone using the iTunes app
+with the previous versions of macOS and Windows operating systems.
+3. Windows File Explorer: For backup creation
+4. Backup and Restore - APP & SMS 
+
 
 ##  Data collection process:
 ###  1.	Prepare the Device:
